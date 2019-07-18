@@ -1,2 +1,2 @@
 # circuit-playground-lamp
-A simple script to change the color of a lamp based on noise and light levels
+A simple circuit python script to change the color of a lamp based on noise and light levels
